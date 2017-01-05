@@ -1,5 +1,5 @@
 # The FROM instruction sets the Base Image for subsequent instructions.
-FROM tensorflow:0.11.0-gpu
+FROM nginx:0.11.0-gpu
 MAINTAINER daocloud <daocloud@daocloud.io>
 
 # The RUN instruction will execute any commands
